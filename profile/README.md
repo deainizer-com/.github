@@ -1,5 +1,11 @@
 # DeAINizer
 
+<p align="center">
+  <a href="https://deainizer.com/">
+    <img src="https://deainizer.com/brand-logo-512.png" alt="DeAINizer" width="112" height="112">
+  </a>
+</p>
+
 [DeAINizer](https://deainizer.com) is an online watermark-cleaning product for files you own or are authorized to edit.
 
 Available now:
